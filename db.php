@@ -3,7 +3,7 @@
  $dbhost = "localhost";
  $dbuser = "root";
  $dbpass = "";
- $db = "Dbname";
+ $db = "CAT1";
  $conn = new mysqli($dbhost, $dbuser, $dbpass,$db) ;
  
  if (mysqli_connect_errno())
